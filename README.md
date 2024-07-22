@@ -32,7 +32,8 @@
 
 
 ## Running a Docker Postgres Server
-Use this command if you don't have a database setup locally and want to use postgres:
+Use this command if you don't have a database setup locally and want to use docker's postgres:
+- Ensure docker is installed before running
 ```sh
 docker run --name fin \
   -e POSTGRES_USER=myuser \
