@@ -150,7 +150,8 @@ Suppose you need to add a new field `date_of_birth` to the `users` table.
   go test ./... -v
   ```
 - **Pull Before Pushing**: Always pull from the dev branch before pushing.
-- **Push to Dev Branch**: Always push to the dev branch.
+- **Push**: Always push to the new branch created
+- **Making PR**: Always make PR to dev branch
 
 ## Endpoint URLs
 
