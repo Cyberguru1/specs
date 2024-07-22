@@ -48,9 +48,7 @@ docker run --name fin \
 
 ## Database Model Changes
 
-### Consult Database Team
-If you need changes to the database models, consult the database team with the specification of what you want.
-
+If you need changes to the database models follow this steps:
 
 ### Procedure for Database Model Changes
 - **Consult the database team with the specification of what you want if you need changes to the database models.**
